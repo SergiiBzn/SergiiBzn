@@ -23,6 +23,6 @@
 ---
 
 ## 📫 Contact
-- 🌐 [LinkedIn](https://linkedin.com/in/sergiibzn)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sergii-buzun/) 
 - ✉️ [Email](mailto:sergiibuzun@gmail.com)  
 - 📂 [Portfolio (GitHub Projects)](https://github.com/SergiiBzn)  
