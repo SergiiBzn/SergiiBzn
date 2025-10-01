@@ -8,9 +8,20 @@
 ---
 
 ## 🚀 Projects
-- [EverGift](https://github.com/SergiiBzn/EverGift-frontend), (https://github.com/SergiiBzn/EverGift-backend/tree/main) – Full-stack app for gift management with authentication & REST API (React, Express, MongoDB, TailwindCSS)  
-- [Poke-Battle](https://github.com/SergiiBzn/Poke-Battle) – Interactive battle game with React frontend and MongoDB backend  
-- [Todo App](https://github.com/SergiiBzn/Todo) – React/TypeScript practice with CRUD features  
+
+- **EverGift**  
+  Full-stack web application for managing gifts with authentication, REST API, and responsive UI.  
+  - [Frontend](https://github.com/SergiiBzn/EverGift-frontend) – React, TypeScript, TailwindCSS  
+  - [Backend](https://github.com/SergiiBzn/EverGift-backend) – Node.js, Express, MongoDB  
+
+- **Poke-Battle**  
+  Interactive battle game with user interaction, authentication, and game logic.  
+  - [Frontend](https://github.com/SergiiBzn/poke-battle-frontend) – React, TypeScript, TailwindCSS  
+  - [Backend](https://github.com/SergiiBzn/poke-battle-backend) – Node.js, Express, MongoDB  
+
+- **Todo App**  
+  Practice project to explore CRUD operations and state management in React.  
+  - [Repository](https://github.com/SergiiBzn/Todo-App) – HTML/CSS/JavaScript/React practice with CRUD features  
 
 ---
 
