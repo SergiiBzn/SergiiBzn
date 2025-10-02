@@ -11,12 +11,12 @@
 
 - **EverGift**  
   Full-stack web application for managing gifts with authentication, REST API, and responsive UI.  
-  - [Frontend](https://github.com/SergiiBzn/EverGift-frontend) – React, TypeScript, TailwindCSS  
+  - [Frontend](https://github.com/SergiiBzn/EverGift-frontend) – React, TailwindCSS  
   - [Backend](https://github.com/SergiiBzn/EverGift-backend) – Node.js, Express, MongoDB  
 
 - **Poke-Battle**  
   Interactive battle game with user interaction, authentication, and game logic.  
-  - [Frontend](https://github.com/SergiiBzn/poke-battle-frontend) – React, TypeScript, TailwindCSS  
+  - [Frontend](https://github.com/SergiiBzn/poke-battle-frontend) – React, TailwindCSS  
   - [Backend](https://github.com/SergiiBzn/poke-battle-backend) – Node.js, Express, MongoDB  
 
 - **Todo App**  
