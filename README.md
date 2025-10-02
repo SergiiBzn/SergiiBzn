@@ -23,7 +23,9 @@
 
 - **Todo App**  
   Practice project to explore CRUD operations and state management in React.  
-  - [Repository](https://github.com/SergiiBzn/Todo-App) – HTML/CSS/JavaScript/React practice with CRUD features  
+  - [Repository](https://github.com/SergiiBzn/new-todo-app) – React/Tailwind, practice with CRUD features
+  - 🔗 [Live Demo](https://sergiibzn.github.io/new-todo-app/)
+
 
 ---
 
