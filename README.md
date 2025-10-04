@@ -19,11 +19,17 @@
   Interactive battle game with user interaction, authentication, and game logic.  
   - [Frontend](https://github.com/SergiiBzn/poke-battle-frontend) – React, TailwindCSS  
   - [Backend](https://github.com/SergiiBzn/poke-battle-backend) – Node.js, Express, MongoDB
-  - 🔗 [Live Demo](https://poke-battle-frontend.onrender.com/) 
+  - 🔗 [Live Demo](https://poke-battle-frontend.onrender.com/)
+ 
+- **Sport-Blog**  
+  Dynamic platform for reading and managing sports articles with a clean and responsive UI.
+  - [Frontend](https://github.com/SergiiBzn/sport-blog-frontend) – React, TailwindCSS  
+  - [Backend](https://github.com/SergiiBzn/sport-blog-backend) – Node.js, Express, PostgreSQL
+  - 🔗 [Live Demo](https://sport-blog-frontend.onrender.com/) 
 
 - **Todo App**  
   Practice project to explore CRUD operations and state management in React.  
-  - [Repository](https://github.com/SergiiBzn/new-todo-app) – React/Tailwind, practice with CRUD features
+  - [Repository](https://github.com/SergiiBzn/new-todo-app) – React, TailwindCSS, practice with CRUD features
   - 🔗 [Live Demo](https://sergiibzn.github.io/new-todo-app/)
 
 
